@@ -1,6 +1,6 @@
 # hello-world
 just another repository
 
-Hi huans,
+Hi humans,
 
 Beware. i'm here now!
